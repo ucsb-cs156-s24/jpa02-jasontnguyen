@@ -3,7 +3,7 @@
 
 Repo: https://github.com/ucsb-cs156-s24/jpa02-jasontnguyen
 
-Deployed at: https://jpa02-jasontnguyen.dokku-05.cs.ucsb.edu
+Deployed at: http://jpa02-jasontnguyen.dokku-05.cs.ucsb.edu
 
 
 # About this repo
